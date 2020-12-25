@@ -2,7 +2,7 @@
   <g>
     <g>
       <rect x="14.5" y="26.354" width="38.874" height="49.646" rx="4.067" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
-      <path d="M31.626,15.485V13.067a4.154,4.154,0,0,1,1.191-2.876A4.055,4.055,0,0,1,35.693,9h30.74A4.067,4.067,0,0,1,70.5,13.067V54.579a4.067,4.067,0,0,1-4.067,4.067H64.322" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <path d="M31.626,15.485V13.067a4.154,4.154,0,0,1,1.191-2.876A4.055,4.055,0,0,1,35.693,9h30.74A4.067,4.067,0,0,1,70.5,13.067V54.579a4.067,4.067,0,0,1-4.067,4.067H64.322" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
     </g>
     <rect width="85" height="85" fill="none"/>
   </g>
